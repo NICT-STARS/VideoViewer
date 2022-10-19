@@ -31,9 +31,9 @@ BSD2
 - src : source (ソースurl)
 - lat : lat（緯度）
 - lng : lng (経度）
-- json : json (真偽値）
-- ui : ui (真偽値）
-- bg : bg (CSS色指定）
+- json : json (jsonの読み込み 真偽値）
+- ui : ui (uiの表示/非表示 真偽値）
+- bg : bg (背景色 CSS色指定）
 - m1 : meta1（メタ情報1）
 - m2 : meta2（メタ情報2）
 

@@ -46,25 +46,25 @@ https://hoge.jp/?src=sample.mp4&json=true&ft=60000&m1=SampleMovie&ct=2022-07-24T
 ### Jsonファイル例
 ```Json
 [
-	{
-		"stars.camera"	: "Mt.Fuji",
-		"stars.camera.model"	: "Camera",
-		"stars.starttime.UTC"	: "2022-07-23T15:00:00Z",
-		"stars.endtime.UTC"	: "2022-07-24T15:00:00Z",
-		"stars.latituide"	: 36.5499473,
-		"stars.longitude"	: 138.1506513,
-		"stars.altitude"	: null,
-		"stars.elevation"	: null,
-		"stars.azimath"	: null,
-		"stars.pan"		: null,
-		"stars.tilt"		: null,
-		"stars.zoom"		: null,
-		"stars.resolution"	: "1920x1080",
-		"stars.samplingtime.msec"	: 60000,
-		"stars.frames"	: 1440,
-		"stars.fps"		: 30,
-		"stars.missing"	: true,
-		"stars.pixelmapping": null
-	}
+  {
+    "stars.camera" : "Mt.Fuji",
+    "stars.camera.model" : "Camera",
+    "stars.starttime.UTC" : "2022-07-23T15:00:00Z",
+    "stars.endtime.UTC" : "2022-07-24T15:00:00Z",
+    "stars.latituide" : 36.5499473,
+    "stars.longitude" : 138.1506513,
+    "stars.altitude" : null,
+    "stars.elevation" : null,
+    "stars.azimath" : null,
+    "stars.pan" : null,
+    "stars.tilt" : null,
+    "stars.zoom" : null,
+    "stars.resolution" : "1920x1080",
+    "stars.samplingtime.msec" : 60000,
+    "stars.frames" : 1440,
+    "stars.fps" : 30,
+    "stars.missing" : true,
+    "stars.pixelmapping": null
+  }
 ]
 ```

@@ -38,7 +38,7 @@ BSD2
 - m2 : meta2（メタ情報2）
 
 ```
-https://hoge.jp/?src=samole.mp4&json=true&ft=60000&m1=SampleMovie&ct=2022-07-24T03:00:00Z&bg=rgb(0,0,0)
+https://hoge.jp/?src=sample.mp4&json=true&ft=60000&m1=SampleMovie&ct=2022-07-24T03:00:00Z&bg=rgb(0,0,0)
 ```
 
 ------------

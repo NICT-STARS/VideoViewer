@@ -29,13 +29,13 @@ BSD2
 - ct : currentTime（初期表示日時）
 - ft : frameTime (フレームタイム）
 - src : source (ソースurl)
-- lat : lat（緯度）
-- lng : lng (経度）
+- lat : lat　（緯度）
+- lng : lng　(経度）
 - json : json (jsonの読み込み 真偽値）
 - ui : ui (uiの表示/非表示 真偽値）
 - bg : bg (背景色 CSS色指定）
-- m1 : meta1（メタ情報1）
-- m2 : meta2（メタ情報2）
+- m1 : meta1（メタ情報1 任意の文字列を指定することができる）
+- m2 : meta2（メタ情報2 任意の文字列を指定することができる）
 
 ```
 https://hoge.jp/?src=sample.mp4&json=true&ft=60000&m1=SampleMovie&ct=2022-07-24T03:00:00Z&bg=rgb(0,0,0)&m1=Mt.Fuji&m2=Camera
